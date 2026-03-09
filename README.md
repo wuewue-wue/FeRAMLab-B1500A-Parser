@@ -16,7 +16,7 @@ This project is a specialized Python-based tool designed for **Ferroelectric Ran
 * **Cycle Isolation**: Smartly detects and isolates single-period waveforms from continuous measurement streams.
 
 ### 2.Interactive Visualization
-* **P-E Hysteresis Loops**: Overlay multiple cycles (e.g., $10^0$ to $10^7$) with customizable color maps (Viridis, Plasma, etc.).
+* **P-E Hysteresis Loops**: Overlay multiple cycles (e.g., $10^0$ to $10^9$) with customizable color maps (Viridis, Plasma, etc.).
 * **Endurance Trends**: Automatically extracts and plots **$2P_r$** (Remnant Polarization) and **$2V_c$** (Coercive Voltage) over logarithmic cycle scales.
 * **Data Table**: Instant view of key metrics for selected cycles.
 
